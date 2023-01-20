@@ -50,7 +50,11 @@
 - Searching upstairs, Chrom stomps on rats and finds an interesting paper bird in the office.
 - Eventually the party hear the City Watch urge them outside.  Exiting the warehouse the party see a captain of the city watch, Hyustus Staget, and 12 veterans.
   - Once Captain Staget sees Raenar, his demeanor changes and seems to be more willing to turn a blind eye and not ask questions about why they are in a Zhentarim-owned hideout.
+- The party head to the sewers and follow the yellow signs to a Xanathar hideout.
 
 
 ## NPCs ##
 - Raenar Neverwinter
+  - A noble
+  - Son of previous Open Lord of Waterdeep, Lord Dagult Neverember.
+- Hyustus Staget 
