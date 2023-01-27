@@ -58,3 +58,16 @@
   - A noble
   - Son of previous Open Lord of Waterdeep, Lord Dagult Neverember.
 - Hyustus Staget 
+
+# Session 3 #
+
+# Session 4 #
+## Events ##
+
+- Players successfully dispatch the poltergeist
+- Chrom picks up the posessed doll and has it with him as it continues to talk
+- Party meets Tally, the owner of the Bent Nail, as he was taking care of the manor's greenhouse.
+  - Tally lets them know they'll likely need the help of the Carpenters’, Roofers’, and Plaisterers’ Guild to properly restore the property
+- Party wanders the neighborhood and enters Corellon's Crown and meet the herbalist Fala Lefaliir.
+  - Chrom attempts to bargain for the Potion of animal friendship, Fala insists on the 125g, Chrom attempts to cast charm on them.  It fails and they kick Chrom out, warning him of calling on the City Watch.
+- Bregwen notices an interesting property with a orange-and-black sign featuring a cat’s eyes.  After knocking, he meets Vincent Trench, a private investigator that offers his services for a fee.
