@@ -1,4 +1,5 @@
 # Session 0 #
+`20th of Ches`
 
 "The year is 1492 DR, the Year of Three Ships Sailing. A very harsh winter has given way to a more forgiving spring.  The air cold and damp, Waterdeep is becoming more lively as Waterdavian's emerge from their homes.  Walking through the cold misty air, reflecting on the turning of seasons, you realize how much more violent the city was than other winter's past where usually, Waterdeep comes to a crawl.. Maybe it was just the wicked temperatures getting the best of the people.  As you enter the Yawning Portal, Waterdeep's most lively and bustling inn located in the Castle Ward, you are greeted with the noises of lively patrons, crackling wood from the multiple fireplaces' and an overwhelming sense of relief from the cold misty air."
 ***
@@ -28,6 +29,7 @@
 - Volothamp Geddarm
 
 # Session 2 #
+
 ## Events ##
 - The party leave the Yawning Portal and head to the Skewered Dragon, a tavern in the Dock Ward, after Volo lets them know that's where he last saw Floon.
   - On their way, they see three arrested and blood-drenched men being questioned by City Watch.
@@ -62,6 +64,7 @@
 # Session 3 #
 
 # Session 4 #
+`21st of Ches`
 ## Events ##
 
 - Players successfully dispatch the poltergeist
